@@ -1,3 +1,3 @@
-# hello-world
+# Hello World!
 1st repo
-I am a computer geek and enjoy computers and am learning to code and now how to use git!
+I am a Network Engineer and junior programmer learning to code to solve issues and make $$$. 
